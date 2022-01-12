@@ -1,8 +1,9 @@
 # Treinamento12-01-2022
 
 - we can create a lot of text<!--podemos criar muito text--->
--Box-shadow creations and more<!--vriaço~es de texto e muito mais -->
--
+
+-Box-shadow creations and more<!--variaçôes de texto e muito mais -->
+
 -We create paragraphs and spaces with color<!--criamos paragrafos e espaços com cores-->
 
 -Borders with colors and sizes<!--bordas com cores e tamanhos-->
